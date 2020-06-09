@@ -1,6 +1,8 @@
 # ReactJS-Weather-App
 
 About
+
+
 This is a personal project built in my spare time for learning purposes.
 
 I used the Open Weather Map API to make calls to a restful api to return the current weather data.
